@@ -7,6 +7,9 @@ Aplicación para hacer pedidos de manera rápida y sencilla con un webservice ba
 ## Versión 1.3 (Actual)
 > Versión pública.
 
+### Modificación al código fuente
++ Ajuste de tamaño en las letras y datos para que en cierto tipo de pantallas se vpudiera ver de mayor forma.
+
 #### Icono modificado
 
 ## Versión 1.2.1
