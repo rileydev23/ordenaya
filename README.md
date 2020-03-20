@@ -1,7 +1,7 @@
 # OrdenaYa!
 -------------
 
-Aplicación para hacer pedidos de manera rápida y sencilla
+Aplicación para hacer pedidos de manera rápida y sencilla con un webservice base donde se almacenan los datos (de dominio privado)
 
 ## Versión 1.3 (Actual)
 > Versión pública.
@@ -24,14 +24,6 @@ Aplicación para hacer pedidos de manera rápida y sencilla
 + Es modificado el código fuente debido a que la url no era la correcta y mostraba error en la pantalla final al momento de enviar los datos
 #### Verificación de pedido
 + Modifica y elimina el el apartado donde se veía los datos recolectados
-
-## Versión 1.1.3
-> Beta.
-
-### Modificación al código fuente
-+ Es agregado el código que hace la llamada al web service (no validado ni verificado por eso se exporta la .apk)
-#### Verificación de pedido
-+ Aparecen los datos recolectados en forma de lista
 
 ## Versión 1.1.2
 > Beta.
@@ -86,3 +78,6 @@ Aplicación para hacer pedidos de manera rápida y sencilla
 + Muestra id del pedido realizado
 + Opción de realizar otro pedido
 + Salir aplicación
+
+
+
