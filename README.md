@@ -2,6 +2,7 @@
 -------------
 
 Aplicación para hacer pedidos de manera rápida y sencilla con un webservice base donde se almacenan los datos (de dominio privado)
++ La idea inicial era que el cliente pudiera hacer pedidos sin la necesidad de tener una "cuenta en la aplicación" queríamos que fuera todo de manera mas fluida, rápida y dinámica para que así se ahorraran tiempo y no fuera tan tedioso hacer un pedido de comida.
 
 ## Versión 1.3 (Actual)
 > Versión pública.
@@ -22,6 +23,7 @@ Aplicación para hacer pedidos de manera rápida y sencilla con un webservice ba
 
 ### Modificación al código fuente
 + Es modificado el código fuente debido a que la url no era la correcta y mostraba error en la pantalla final al momento de enviar los datos
++ Todas las validaciones fueron agregadas.
 #### Verificación de pedido
 + Modifica y elimina el el apartado donde se veía los datos recolectados
 
